@@ -1,0 +1,3 @@
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step1/CMakeFiles/Tutorial.dir
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step1/CMakeFiles/edit_cache.dir
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step1/CMakeFiles/rebuild_cache.dir

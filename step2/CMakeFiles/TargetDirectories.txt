@@ -1,0 +1,4 @@
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2/CMakeFiles/foo.dir
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2/CMakeFiles/main.dir
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2/CMakeFiles/edit_cache.dir
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2/CMakeFiles/rebuild_cache.dir

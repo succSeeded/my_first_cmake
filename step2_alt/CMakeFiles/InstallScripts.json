@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2_alt/cmake_install.cmake",
+		"/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2_alt/MathFunctions/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

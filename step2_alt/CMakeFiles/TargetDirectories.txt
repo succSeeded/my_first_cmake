@@ -1,0 +1,6 @@
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2_alt/CMakeFiles/Tutorial.dir
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2_alt/CMakeFiles/edit_cache.dir
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2_alt/CMakeFiles/rebuild_cache.dir
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2_alt/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2_alt/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/succ_seed/Desktop/Studies/cmake_tutorial/step2_alt/MathFunctions/CMakeFiles/rebuild_cache.dir
