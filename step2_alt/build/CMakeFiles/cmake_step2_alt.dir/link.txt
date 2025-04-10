@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -Werror -Wl,--dependency-file=CMakeFiles/cmake_step2_alt.dir/link.d CMakeFiles/cmake_step2_alt.dir/sources/main.cpp.o CMakeFiles/cmake_step2_alt.dir/sources/my_math/main.cpp.o -o cmake_step2_alt  sources/my_math/libmy_math.a

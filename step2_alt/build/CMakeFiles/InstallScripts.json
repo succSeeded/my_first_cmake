@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/succ_seed/work/studies/my_first_cmake/step2_alt/build/cmake_install.cmake",
+		"/home/succ_seed/work/studies/my_first_cmake/step2_alt/build/sources/cmake_install.cmake",
+		"/home/succ_seed/work/studies/my_first_cmake/step2_alt/build/sources/my_math/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

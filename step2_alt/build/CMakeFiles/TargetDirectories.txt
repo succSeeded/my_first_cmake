@@ -1,0 +1,8 @@
+/home/succ_seed/work/studies/my_first_cmake/step2_alt/build/CMakeFiles/cmake_step2_alt.dir
+/home/succ_seed/work/studies/my_first_cmake/step2_alt/build/CMakeFiles/edit_cache.dir
+/home/succ_seed/work/studies/my_first_cmake/step2_alt/build/CMakeFiles/rebuild_cache.dir
+/home/succ_seed/work/studies/my_first_cmake/step2_alt/build/sources/CMakeFiles/edit_cache.dir
+/home/succ_seed/work/studies/my_first_cmake/step2_alt/build/sources/CMakeFiles/rebuild_cache.dir
+/home/succ_seed/work/studies/my_first_cmake/step2_alt/build/sources/my_math/CMakeFiles/my_math.dir
+/home/succ_seed/work/studies/my_first_cmake/step2_alt/build/sources/my_math/CMakeFiles/edit_cache.dir
+/home/succ_seed/work/studies/my_first_cmake/step2_alt/build/sources/my_math/CMakeFiles/rebuild_cache.dir
